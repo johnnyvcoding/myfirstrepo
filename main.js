@@ -3,3 +3,5 @@ if (true){
 }
 
 var x = 40;
+
+let y = 45;
