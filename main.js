@@ -1,4 +1,4 @@
-if (true){
+if (1 === 2-1){
     console.log('It worked');
 }
 
@@ -8,3 +8,12 @@ var x = 40;
      console.log(i);
  }
 let y = 45;
+
+
+function incrementOne () {
+    
+}
+
+
+
+
