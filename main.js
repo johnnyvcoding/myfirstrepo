@@ -3,3 +3,7 @@ if (true){
 }
 
 var x = 40;
+
+ for (let i = 0; i < 40; i++){
+     console.log(i);
+ }
